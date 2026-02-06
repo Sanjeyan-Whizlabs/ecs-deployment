@@ -1,0 +1,6 @@
+[
+  {
+    "name": "test",
+    "imageUri": "763944546358.dkr.ecr.us-east-1.amazonaws.com/ecs:latest"
+  }
+]
